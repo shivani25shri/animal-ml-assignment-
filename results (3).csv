@@ -1,0 +1,35 @@
+image_name,predicted_label,confidence_score,duplicate_group_id
+15503005739_1771850130079_originalFileName.jpeg,cow,0.8203,None
+15503458995_1771852087958_originalFileName.jpeg,cow,0.6963,None
+15507430553_1771852152649_originalFileName.jpeg,cow,0.7415,None
+15507977491_1771851265520_originalFileName.jpeg,cow,0.7821,group_0
+15512343148_1771852162468_originalFileName.jpeg,cow,0.6999,None
+1771852256726_image.jpg,buffalo,0.6437,None
+15501054283_1769930885365_originalFileName.webp,cow,0.7993,None
+15501646269_1771849287414_c0900904-90d9-4075-b3cf-d66f3836f889______udder.jpeg,cow,0.7871,None
+15506056344_1771304609663_originalFileName.webp,cow,0.8855,None
+15506178363_1771396347247_originalFileName.webp,cow,0.9372,None
+15506362876_1771298905770_originalFileName.webp,cow,0.8066,None
+15508057157_1771850446880_originalFileName.jpeg,cow,0.779,None
+15508899541_1771706615639_originalFileName.webp,cow,0.9225,None
+15509019228_1771819579987_originalFileName.webp,cow,0.7077,None
+15509131078_1771741765017_originalFileName.webp,cow,0.7376,None
+15509985498_1771851149749_originalFileName.jpeg,cow,0.583,None
+15510312593_1771851581113_originalFileName.jpeg,cow,0.7901,None
+15511800946_1771850598614_originalFileName.jpeg,cow,0.6331,None
+15512581266_1770114886448_originalFileName.webp,cow,0.8046,None
+15512685761_1771308671961_17bca41f-fd76-4d08-8f51-e3f2b352d88f______udder.webp,cow,0.9311,None
+1689343207809_IMG20230714133920.jpg,cow,0.936,None
+2026-02-23 at 9.29.47 PM.png,cow,0.8112,group_0
+7014211591_1771852685634_originalFileName.jpeg,cow,0.896,None
+Animal Mela Aug 26 2023.jpg,cow,0.5837,None
+Animal Mela IMG 2427.jpeg,cow,0.8445,None
+Animal Mela Image 2.jpeg,cow,0.7551,None
+Animal Mela Image.jpeg,cow,0.8174,None
+Animal Mela.jpg,cow,0.8723,None
+Original File from .webp,cow,0.753,None
+Original File from PrimeTrade.webp,cow,0.6344,None
+Original File from.webp,cow,0.7186,None
+Original File from1.webp,cow,0.8511,None
+data-PM.png,cow,0.6742,None
+file3.webp,cow,0.8218,None
